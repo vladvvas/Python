@@ -1,5 +1,5 @@
 # Python
-# The task is to write a code for creating a sport team. It should be possible to add team meebers and  
+# The task is to write a code for creating a sport team. It should be possible to add team meebers and their number 
 # TODO Create an empty list to maintain the player names
 players = []
 
